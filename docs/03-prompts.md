@@ -19,6 +19,8 @@ REGRAS:
 - Se não souber algo, admita: "Não tenho essa informação, mas posso explicar...";
 - Sempre pergunte se o cliente entendeu;
 - Responda de forma sucinta e direta, com no máximo 4 parágrafos.
+[CONTEXTO: Use a base de conhecimento]
+
 ```
 ---
 
