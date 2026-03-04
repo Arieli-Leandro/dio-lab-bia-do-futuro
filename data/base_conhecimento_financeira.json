@@ -1,0 +1,14 @@
+{
+  "conceitos_financeiros": {
+    "lucro_liquido": "Lucro líquido é o valor que sobra após descontar todos os custos fixos, variáveis, impostos e investimentos.",
+    "margem_lucro": "Margem de lucro é a porcentagem do lucro em relação à receita total.",
+    "ponto_equilibrio": "Ponto de equilíbrio é o valor mínimo de vendas necessário para cobrir todos os custos.",
+    "custos_fixos": "Custos fixos são despesas que não variam com a quantidade vendida, como aluguel e internet.",
+    "custos_variaveis": "Custos variáveis mudam conforme o volume de produção, como ingredientes e embalagens."
+  },
+  "regras_analise": {
+    "margem_baixa": "Se a margem de lucro for menor que 15%, o negócio está em risco.",
+    "marketing_ideal": "Investimento em marketing recomendado entre 5% e 10% da receita.",
+    "crescimento_saudavel": "Crescimento mensal ideal de receita entre 5% e 12%."
+  }
+}
