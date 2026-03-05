@@ -25,7 +25,7 @@ pip install streamlit pandas requests
 ollama serve
 
 # 3. Rodar o app
-streamlit run .\src\agnete.py
+streamlit run .\src\agente.py
 ```
 
 ## Evidência de Execução
